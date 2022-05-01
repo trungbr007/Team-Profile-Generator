@@ -1,4 +1,6 @@
 const Intern= require('../lib/Intern');
+jest.mock('../lib/Intern');
+
 
 
 test('get intern school name',()=>{

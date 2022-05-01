@@ -1,4 +1,6 @@
 const Engineer= require('../lib/Engineer');
+jest.mock('../lib/Engineer.js');
+
 
 
 test('get engineer Github Username',()=>{
