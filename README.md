@@ -1,1 +1,2 @@
 # Team-Profile-Generator
+I did finish some constructors and classes by following the module 10. To be honest, I could not fully finish everything by myself so I had to refer some assigments on youtube but still can not clearly understand to finish. Please mark this base on my effort trying to do this and I will edit my code in the future when I feel I can understand enough to complete.
